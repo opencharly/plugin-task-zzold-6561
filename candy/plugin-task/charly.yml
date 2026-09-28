@@ -1,7 +1,5 @@
-version: 2026.267.1200
 plugin-task:
     candy:
-        version: 2026.267.1200
         description: |-
             The generic declarative TASK runner for charly — the replacement for a
             Taskfile. Serves three capabilities: `kind:task` (a named, host-native,
